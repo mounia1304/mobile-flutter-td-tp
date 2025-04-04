@@ -1,7 +1,16 @@
-**/*.dart
-**/*.js
-**/*.json
-**/*.yaml
-**/*.yml
-**/*.lock
-**/*.dart_tool
+ **/*.dart
+    **/*.js
+    **/*.json
+    **/*.yaml
+    **/*.yml
+    **/*.lock
+    **/*.dart_tool
+    node_modules/
+    build/
+    .idea/
+    .vscode/
+    .env
+    secrets.json
+    *.log
+    *.tmp
+    *.swp
